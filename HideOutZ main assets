@@ -1,0 +1,6 @@
+| Asset    | File Name   | Purpose                    |
+| -------- | ----------- | -------------------------- |
+| Player   | player.png  | Player character           |
+| Bullet   | bullet.png  | Paint shot / weapon        |
+| Map      | map.png     | City background (top-down) |
+| Power-up | powerup.png | Invisibility item          |
